@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hidencod
+- 👋 Hi, I’m Maliyapogu Jammanna @Hidencod
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning HTML5 and css,Java ,python
 - 💞️ I’m looking to collaborate on ...
