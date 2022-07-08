@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Maliyapogu Jammanna @Hidencod
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning HTML5 and css,Java ,python
-- 💞️ I’m looking to collaborate on ...
-- 📫 jammanna017@gmail.com
 
-<!---
-Hidencod/Hidencod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Calculator
+
+## About Project
+
+### We are creating this Calculator so that, other developers can get the benefits of it.
+
+
+## How to contribute : 
+ 1. Make a Fork.
+ 2. Clone the repository to your local desktop.
+ 3. Select the folder(what you are creating)
+ 4. Create new folder inside the selected folder and give it a name (It's necessary).
+ 5. Make changes and Add to Staging here.
+ 6. Commit changes [always write the message short and easy to understand (ideally 3 to 5 words).]
+ 7. Push the changes so that Pull request will be generated.
+ 8. Make PR.
+ 9. Commits should be descriptive.
+
